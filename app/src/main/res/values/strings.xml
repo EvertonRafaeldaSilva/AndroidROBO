@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Robo Control</string>
+
+    <string name="lblBemVindo01">Bem Vindo</string>
+    <string name="lblBemVindo02">UM PROTÓTIPO DE VEÍCULO AUTOMATIZADO DESENVOLVIDO COM BAIXO CUSTO EM ARDUINO E CONTROLADO POR UM APLICATIVO ANDROID</string>
+    <string name="lblBemVindo03">Everton Rafael da Silva</string>
+    <string name="lblVersaoApk">Versão: 1.0</string>
+    <string name="frente">FRENTE</string>
+    <string name="esquerda">ESQUERDA</string>
+    <string name="parar">PARAR</string>
+    <string name="direita">DIREITA</string>
+    <string name="tras">RÉ</string>
+    <string name="executar">Executar</string>
+    <string name="comando">Comando Personalizado</string>
+</resources>
